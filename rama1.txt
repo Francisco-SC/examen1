@@ -1,3 +1,8 @@
 Creo un archivo en la rama
+<<<<<<< HEAD
 Añado cambios en el main
 Añado cambios en el main
+=======
+Añado cambios al fichero
+Añado cambios al fichero
+>>>>>>> franciscoSanchez
